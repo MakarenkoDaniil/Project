@@ -1,0 +1,30 @@
+.yellow{
+    background-color: rgb(194, 20, 20);
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    justify-self: center;
+    flex-wrap: wrap;
+    font-style: oblique
+}  
+    
+
+
+.black{
+    margin: 30px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+    background-color: rgb(255, 255, 255);
+    height: 205px;
+    width: 750px;
+    
+}
+
+h1{
+    text-align: center;
+}
